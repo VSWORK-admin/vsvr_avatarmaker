@@ -90,7 +90,10 @@ public class mStaticThings : MonoBehaviour
     public static Dictionary<string, WsAvatarFrameJian> DynClientAvatarsDic = new Dictionary<string, WsAvatarFrameJian>();
     private static mStaticThings instance;
     public bool localroomserver = false;
-
+    public bool isfpsmoving = false;
+    public List<bool> movingmarklist = new List<bool>();
+    public string DeviceSNnumber;
+    public string nowpencolor = "";
 
     public static mStaticThings I
     {

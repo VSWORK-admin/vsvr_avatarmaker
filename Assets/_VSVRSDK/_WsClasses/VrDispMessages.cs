@@ -125,6 +125,7 @@ public enum VrDispMessageType
     CameraScreenSettingBegin,
     CameraScreenSettingEnd,
     CameraScreenSceneStart,
+    CameraScreenCameraSet,
     GetRemoteScenes,
     DownloadURLIDScene,
     DownloadingRemoteScene,
@@ -151,7 +152,8 @@ public enum VrDispMessageType
     ConnectToNewChanel,
     LoadGlbModels,
     LoadGlbModelsDone,
-    AvatarSpeakStatusChange
+    AvatarSpeakStatusChange,
+    OpenAPKByPackagename
 }
 
 
