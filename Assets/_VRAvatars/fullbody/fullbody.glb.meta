@@ -7,12 +7,13 @@ ScriptedImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-  script: {fileID: 11500000, guid: f9a9b5f86ac5a91498e45a73a6fda452, type: 3}
+  script: {fileID: 11500000, guid: 51fbc5f8e4d329c47ad7bfe6b08ee061, type: 3}
   importSettings:
     materials: 1
     shaderOverrides:
-      metallic: {fileID: 4800000, guid: 4fc1d6a4379d9904aaa846ff12d590ed, type: 3}
-      metallicBlend: {fileID: 4800000, guid: 687242cd40c522f44bf3db536c3a6ccf, type: 3}
-      specular: {fileID: 4800000, guid: 2b94da7f1431f1d4ea986c4079b876ec, type: 3}
-      specularBlend: {fileID: 4800000, guid: 129ea0ce131999342a328913906d125a, type: 3}
+      metallic: {fileID: 4800000, guid: 2cb8a0fb41376224cafb6246ea143f22, type: 3}
+      metallicBlend: {fileID: 4800000, guid: beaef257e79bb5148be45cf32725f3ac, type: 3}
+      specular: {fileID: 4800000, guid: 17dd11223fb4da64c91f6b2108306927, type: 3}
+      specularBlend: {fileID: 4800000, guid: bab53973e3ddae94886f8b4e027a5c1e, type: 3}
     useLegacyClips: 0
+    interpolationMode: -1
